@@ -1,0 +1,15 @@
+.fondo {
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+.carta{
+  -webkit-box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+  -moz-box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+  box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+}
+
+.button:hover{
+  -webkit-box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+  -moz-box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+  box-shadow: 6px 6px 5px -4px rgba(0, 0, 0, 0.52);
+}
